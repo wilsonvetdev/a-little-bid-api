@@ -5,4 +5,5 @@ class Job < ApplicationRecord
 
   validates :zipcode, length: { is: 5 }
   validates :description, length: { maximum: 500}
+  validates :isComplete, inclusion: { in: [true, false] }
 end
