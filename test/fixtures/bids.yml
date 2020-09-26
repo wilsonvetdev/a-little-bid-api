@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bid_amount: 1.5
+  isAccepted: false
+  comment: MyText
+  contractor: one
+  job: one
+
+two:
+  bid_amount: 1.5
+  isAccepted: false
+  comment: MyText
+  contractor: two
+  job: two
