@@ -20,6 +20,16 @@ class BidsController < ApplicationController
         end
     end
 
+    def update
+        bid = Bid.find_by(id: params[:bid_id])
+        bid.update(bid_params)
+        if bid.valid? 
+            render json: bid 
+        else
+            render json: {error: "Unable to update bid"}
+        end
+    end
+
     private 
 
     def bid_params
