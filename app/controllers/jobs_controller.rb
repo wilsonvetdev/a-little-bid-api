@@ -17,6 +17,12 @@ class JobsController < ApplicationController
         end
     end
 
+    def destroy
+        job = Job.find_by(id: params[:id])
+        job.destroy 
+        render json: {success: 'job instance successfully deleted.'}
+    end
+
     private 
     def job_params
         params.permit(:zipcode, :isComplete, :description, :user_id)
