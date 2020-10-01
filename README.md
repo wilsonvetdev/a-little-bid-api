@@ -1,4 +1,4 @@
-# Word Of Mouth
+# A-Little-Bid
 The app is inteded to allow a user to post job information and allows contractors to submit bid-related information to home constructions. * Not deployed *
 
 # General Info
