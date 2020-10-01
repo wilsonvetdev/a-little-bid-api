@@ -41,7 +41,7 @@ Database schema will need to be updated with more tables to add more features. F
 * Submitting multiple bids on the same job post is buggy(it seems to trigger a full-page refresh).
 
 # Sample Images(video walk-through coming soon):
-app/images/Screen Shot 2020-10-01 at 4.01.58 PM.png
+!https://github.com/wilsonvetdev/a-little-bid-api/blob/master/app/images/Screen%20Shot%202020-10-01%20at%204.01.58%20PM.png
 https://github.com/wilsonvetdev/a-little-bid-api/blob/master/app/images/Screen%20Shot%202020-10-01%20at%204.02.45%20PM.png
 https://github.com/wilsonvetdev/a-little-bid-api/blob/master/app/images/Screen%20Shot%202020-10-01%20at%204.14.43%20PM.png
 
