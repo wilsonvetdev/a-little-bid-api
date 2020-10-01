@@ -39,3 +39,8 @@ Database schema will need to be updated with more tables to add more features. F
 # Known Issues so far:
 * Bid editing can only be edited once after submitting.
 * Submitting multiple bids on the same job post is buggy(it seems to trigger a full-page refresh).
+
+# Sample Images(video walk-through coming soon):
+
+
+
