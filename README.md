@@ -29,7 +29,7 @@ This web app employs the following technologies(not inclusive):
 9. cd into the frontend repo and type 'open index.html' into your command line to explore the app
 
 # What's Next?
-Database schema will need to be updated with more tables to add more features. Frontend will also be greatly improved, and will be revisited in the future after the end of the Web Dev Fellowship at Flatiron. Javascript code needs refactoring and make more modular.
+Database schema will need to be updated with more tables to add more features. Frontend will also be greatly improved, and will be revisited in the future after the end of the Web Dev Fellowship at Flatiron. Javascript code needs refactoring and make more modular. I actually might rewrite all the code from scratch and use React instead. I really want to deploy this after I'm finished with Flatiron Fellowship.
 
 # Nice to have features(not final):
 
